@@ -43,5 +43,5 @@ year = {2022}
 ## Authors
 
 
-If you have any further questions about this dataset please contact [Burcu Ozgun](@burcuozgun) (burcuozgun[at]uni-kassel[dot]de) or [Tom Broekel](@tombroekel) (tom.brokel[at]uis[dot]no).
+If you have any further questions about this dataset please contact [Burcu Ozgun](https://github.com/burcuozgun) (burcuozgun[at]uni-kassel[dot]de) or [Tom Broekel](https://github.com/tombroekel) (tom.brokel[at]uis[dot]no).
 
