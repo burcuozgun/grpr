@@ -17,7 +17,7 @@ The dataset is in .csv format. The tidy dataset has five columns: ID_PR, ID_ORG,
 | :-------- | :---------------------------------------------------------------------------------------   |
 | ID_PR     | Press release ID. Each press release is assigned a unique ID.  				             |
 | ID_ORG    | Organization ID. Each organization issuing press releases is assigned a unique ID.        |
-| Keywords  | Keywords assigned to the press release. 						                             |
+| Keyword   | Keywords assigned to the press release. 						                             |
 | Date 	    | The date on which the press release is published on the portal, in yyyy-MM-dd format.      |
 | NUTS3     | Nomenclature of territorial units for statistics classification code. 				     |
 
